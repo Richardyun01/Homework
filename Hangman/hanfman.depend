@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1593314864 source:c:\users\À±¼ö¿ë\desktop\hangman\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"dict.h"
+
+1593304991 c:\users\À±¼ö¿ë\desktop\hangman\dict.h
+
